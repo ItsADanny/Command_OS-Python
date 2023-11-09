@@ -4,11 +4,7 @@ A text based OS look-a-like that looks like MSDOS (Project used for learning Pyt
 
 
 Original Description:
------------------------
 A text based OS with the feel of DOS
------------------------
 
 Original Repository:
------------------------
 https://github.com/Cust0mI0/Command_OS---Python-edition
------------------------
