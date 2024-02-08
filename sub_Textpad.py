@@ -6,3 +6,5 @@ import sys
 import platform
 import webbrowser
 
+def Open_Textpad():
+    print("Still in development")

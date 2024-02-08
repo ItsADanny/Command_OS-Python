@@ -6,4 +6,5 @@ import sys
 import platform
 import webbrowser
 
-
+def Open_Weather():
+    print("Still in development")

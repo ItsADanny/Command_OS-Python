@@ -1,5 +1,6 @@
 __author__ = 'Danny de Snoo'
 
+# Import the required OS modules
 import os
 import time
 import sys
@@ -7,10 +8,17 @@ import platform
 import webbrowser
 import subprocess
 import string
-from ctypes import windll
+
+# Import the custom python modules
+import sub_Calc
+import sub_Custom
+import sub_Date
+import sub_Games
+import sub_Textpad
+import sub_Weather
 
 #Variables
-MyGitHubWebPage = "github.com/Cust0mI0/Command_OS"
+MyGitHubWebPage = "https://github.com/ItsADanny/Command_OS-Python"
 un_ping = "True"
 
 #---------------------------------{Tools}----------------------------
